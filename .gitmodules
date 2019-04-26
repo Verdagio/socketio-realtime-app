@@ -1,0 +1,6 @@
+[submodule "connect-5-server"]
+	path = connect-5-server
+	url = https://github.com/Verdagio/connect-5-server.git
+[submodule "connect-5-client"]
+	path = connect-5-client
+	url = https://github.com/Verdagio/connect-5-client.git
