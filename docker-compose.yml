@@ -2,10 +2,10 @@ version: "3"
 
 services:
   server:
-    build: ./server
+    build: ./connect-5-server
     ports: 
       - "9000:9000"
   client:
-    build: ./client
+    build: ./connect-5-client
     ports: 
       - "4200:4200"
