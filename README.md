@@ -51,3 +51,6 @@ Please see each individual readme for specific commands.
 
 To run all pieces of the project:
 ```docker-compose up --build```
+
+Note: if running the node server service out of its container the url for the server defined in the angular project will need to be updated.
+```connect-5-client/src/environment```
