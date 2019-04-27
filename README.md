@@ -1,6 +1,12 @@
 # Connect 5 app
 Note: the server side code was taken and modified from the boilerplate project which can be found in my [Github Repo](https://github.com/Verdagio/tsc-express-api)
 
+## Getting started
+git clone me! then grab the submodules with 
+```git submodule update --init```
+
+Then make sure you have docker installed 
+
 ## Tech
 This app is built using the following technologies:
  1. Angular
